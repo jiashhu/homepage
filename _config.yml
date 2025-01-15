@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jiashun Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant Professor"
-  location         : "Earth"
-  employer         : "The Hong Kong Polytechnic University"
+  bio              : "Research Assistant Professor at The Hong Kong Polytechnic University"
+  location         : "Hong Kong"
+  employer         : # "The Hong Kong Polytechnic University"
   uri              : # URL
   email            : "jiashhu@polyu.edu.hk" 
 

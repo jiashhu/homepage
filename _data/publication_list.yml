@@ -22,7 +22,7 @@
       year = {2024}
       }
 
-- title: "High-order mass- and energy-conserving methods for the nonlinear {{Schr\"odinger}} equation"
+- title: "High-order mass- and energy-conserving methods for the nonlinear Schrodinger equation"
   year: 2024
   type: journal
   label: 
@@ -37,7 +37,7 @@
     display: SIAM Journal on Scientific Computing
   bibtex: | 
     @article{BHL2024SJSC,
-      title = {High-order mass- and energy-conserving methods for the nonlinear {{Schr\"odinger}} equation},
+      title = {High-order mass- and energy-conserving methods for the nonlinear Schrodinger equation},
       author = {Bai, Genming and Hu, Jiashun and Li, Buyang},
       volume = {46},
       number = {2},
@@ -47,7 +47,7 @@
       year = {2024}
     }
 
-- title: "Evolving finite element methods with an artificial tangential velocity for mean curvature flow and {{Willmore}} flow"
+- title: "Evolving finite element methods with an artificial tangential velocity for mean curvature flow and Willmore flow"
   year: 2022
   type: journal
   label: 
@@ -62,7 +62,7 @@
     display: Numerische Mathematik
   bibtex: | 
     @article{HL2022NM,
-      title = {Evolving finite element methods with an artificial tangential velocity for mean curvature flow and {{Willmore}} flow},
+      title = {Evolving finite element methods with an artificial tangential velocity for mean curvature flow and Willmore flow},
       author = {Hu, Jiashun and Li, Buyang},
       volume = {152},
       number = {1},
@@ -72,7 +72,74 @@
       year = {2022}
     }
 
-- title: "Global geometrical optics method for vector-valued {{Schr\"odinger}} problems"
+- title: "Coexistence of a new type of bound state in the continuum and a lasing threshold mode induced by PT symmetry"
+  year: 2020
+  type: journal
+  label: 
+  image: 
+  description: A new type of bound states induced by PT symmetry is found which does not radiate but can be excited from the far field.
+  authors: Q. Song, J. Hu, S. Dai, C. Zheng, D. Han, J. Zi, Z. Q. Zhang, C. T. Chan
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: https://www.science.org/doi/10.1126/sciadv.abb0197
+    display: Sci. Adv.
+  bibtex: | 
+    @article{SHD+2020SA,
+      title = {Coexistence of a new type of bound state in the continuum and a lasing threshold mode induced by {{PT}} symmetry},
+      author = {Song, Qianju and Hu, Jiashun and Dai, Shiwei and Zheng, Chunxiong and Han, Dezhuan and Zi, Jian and Zhang, Z. Q. and Chan, C. T.},
+      journal = {Sci. Adv.},
+      year = {2020},
+      doi = {10.1126/sciadv.abb0197}
+    }
+
+- title: "Optimal error estimate of the extended-WKB approximation to the high frequency wave-type equation in the semi-classical regime"
+  year: 2020
+  type: journal
+  label: 
+  image: 
+  description: For the Cauchy problem of the high frequency wave-type equation with Wentzel--Kramers--Brillouin (WKB) type initial data, the extended Wentzel--Kramers--Brillouin (E-WKB) ansatz is an asymptotically valid solution.
+  authors: C. Zheng, J. Hu
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: 
+    display: J. Sci. Comput.
+  bibtex: | 
+    @article{ZH2020JSC,
+      title = {Optimal error estimate of the extended-WKB approximation to the high frequency wave-type equation in the semi-classical regime},
+      author = {Zheng, Chunxiong and Hu, Jiashun},
+      journal = {J. Sci. Comput.},
+      year = {2020}
+    }
+
+- title: "Extended WKB analysis for the linear vectorial wave equation in the high-frequency regime"
+  year: 2020
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: C. Zheng, J. Hu
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: https://doi.org/10.4310/CMS.2020.v18.n3.a5
+    display: Commun. Math. Sci.
+  bibtex: | 
+    @article{ZH2020CMS,
+      title = {Extended {{WKB}} analysis for the linear vectorial wave equation in the high-frequency regime},
+      author = {Zheng, Chunxiong and Hu, Jiashun},
+      journal = {Commun. Math. Sci.},
+      volume = {18},
+      pages = {687--706},
+      doi = {10.4310/CMS.2020.v18.n3.a5},
+      year = {2020}
+    }
+
+- title: "Global geometrical optics method for vector-valued Schrodinger problems"
   year: 2018
   type: journal
   label: 
@@ -97,98 +164,6 @@
       year = {2018}
     }
 
-- title: "Fast and stable evaluation of the exact absorbing boundary condition for the semi-discrete linear {{Schr\"odinger}} equation in unbounded domains"
-  year: 2017
-  type: journal
-  label: 
-  image: 
-  description: 
-  authors: J. Hu and C. Zheng
-  link_pre: 
-    url: 
-    display: 
-  link_main:
-    url: https://doi.org/10.1016/j.cam.2017.05.018
-    display: J. Comput. Appl. Math.
-  bibtex: | 
-    @article{HZ2017JCAM,
-      title = {Fast and stable evaluation of the exact absorbing boundary condition for the semi-discrete linear {{Schr\"odinger}} equation in unbounded domains},
-      author = {Hu, Jiashun and Zheng, Chunxiong},
-      volume = {326},
-      pages = {116--125},
-      doi = {10.1016/j.cam.2017.05.018},
-      journal = {J. Comput. Appl. Math.},
-      year = {2017}
-    }
-
-
-- title: "Coexistence of a new type of bound state in the continuum and a lasing threshold mode induced by {{PT}} symmetry"
-  year: 2020
-  type: journal
-  label: 
-  image: 
-  description: A new type of bound states induced by PT symmetry is found which does not radiate but can be excited from the far field.
-  authors: Q. Song, J. Hu, S. Dai, C. Zheng, D. Han, J. Zi, Z. Q. Zhang, C. T. Chan
-  link_pre: 
-    url: 
-    display: 
-  link_main:
-    url: https://www.science.org/doi/10.1126/sciadv.abb0197
-    display: Sci. Adv.
-  bibtex: | 
-    @article{SHD+2020SA,
-      title = {Coexistence of a new type of bound state in the continuum and a lasing threshold mode induced by {{PT}} symmetry},
-      author = {Song, Qianju and Hu, Jiashun and Dai, Shiwei and Zheng, Chunxiong and Han, Dezhuan and Zi, Jian and Zhang, Z. Q. and Chan, C. T.},
-      journal = {Sci. Adv.},
-      year = {2020},
-      doi = {10.1126/sciadv.abb0197}
-    }
-
-- title: "Extended {{WKB}} analysis for the linear vectorial wave equation in the high-frequency regime"
-  year: 2020
-  type: journal
-  label: 
-  image: 
-  description: 
-  authors: C. Zheng, J. Hu
-  link_pre: 
-    url: 
-    display: 
-  link_main:
-    url: https://doi.org/10.4310/CMS.2020.v18.n3.a5
-    display: Commun. Math. Sci.
-  bibtex: | 
-    @article{ZH2020CMS,
-      title = {Extended {{WKB}} analysis for the linear vectorial wave equation in the high-frequency regime},
-      author = {Zheng, Chunxiong and Hu, Jiashun},
-      journal = {Commun. Math. Sci.},
-      volume = {18},
-      pages = {687--706},
-      doi = {10.4310/CMS.2020.v18.n3.a5},
-      year = {2020}
-    }
-
-- title: "Optimal error estimate of the extended-{{WKB}} approximation to the high frequency wave-type equation in the semi-classical regime"
-  year: 2020
-  type: journal
-  label: 
-  image: 
-  description: For the Cauchy problem of the high frequency wave-type equation with Wentzel--Kramers--Brillouin (WKB) type initial data, the extended Wentzel--Kramers--Brillouin (E-WKB) ansatz is an asymptotically valid solution.
-  authors: C. Zheng, J. Hu
-  link_pre: 
-    url: 
-    display: 
-  link_main:
-    url: 
-    display: J. Sci. Comput.
-  bibtex: | 
-    @article{ZH2020JSC,
-      title = {Optimal error estimate of the extended-{{WKB}} approximation to the high frequency wave-type equation in the semi-classical regime},
-      author = {Zheng, Chunxiong and Hu, Jiashun},
-      journal = {J. Sci. Comput.},
-      year = {2020}
-    }
-
 - title: "Numerical solution of the nonlocal diffusion equation on the real line"
   year: 2017
   type: journal
@@ -211,5 +186,30 @@
       number = {5},
       pages = {A1951-A1968},
       doi = {10.1137/16M1090107},
+      year = {2017}
+    }
+
+
+- title: "Fast and stable evaluation of the exact absorbing boundary condition for the semi-discrete linear Schrodinger equation in unbounded domains"
+  year: 2017
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: J. Hu and C. Zheng
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: https://doi.org/10.1016/j.cam.2017.05.018
+    display: J. Comput. Appl. Math.
+  bibtex: | 
+    @article{HZ2017JCAM,
+      title = {Fast and stable evaluation of the exact absorbing boundary condition for the semi-discrete linear {{Schr\"odinger}} equation in unbounded domains},
+      author = {Hu, Jiashun and Zheng, Chunxiong},
+      volume = {326},
+      pages = {116--125},
+      doi = {10.1016/j.cam.2017.05.018},
+      journal = {J. Comput. Appl. Math.},
       year = {2017}
     }
