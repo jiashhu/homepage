@@ -1,0 +1,28 @@
+- title: "A convergent evolving finite element method with artificial tangential motion for surface evolution under a prescribed velocity field"
+  year: 2024
+  type: journal
+  label: 
+  image: 
+  description: 
+  authors: G. Bai, J. Hu, and B. Li
+  link_pre: 
+    url: 
+    display: 
+  link_main:
+    url: https://epubs.siam.org/doi/10.1137/23M156968X
+    display: SIAM Journal on Numerical Analysis
+  bibtex: | 
+    @article{BHL2024SJNA,
+      title = {A convergent evolving finite element method with artificial tangential motion for surface evolution under a prescribed velocity field},
+      author = {Bai, Genming and Hu, Jiashun and Li, Buyang},
+      date = {2024},
+      journaltitle = {SIAM J. Numer. Anal.},
+      volume = {62},
+      number = {5},
+      pages = {2172--2195},
+      abstract = {A novel evolving surface finite element method, based on a novel equivalent formulation of the continuous problem, is proposed for computing the evolution of a closed hypersurface moving under a prescribed velocity field in two- and threedimensional spaces. The method improves the mesh quality of the approximate surface by minimizing the rate of deformation using an artificial tangential motion. The transport evolution equations of the normal vector and the extrinsic Weingarten matrix are derived and coupled with the surface evolution equations to ensure stability and convergence of the numerical approximations. Optimal-order convergence of the semi-discrete evolving surface finite element method is proved for finite elements of degree k {$\geq$} 2. Numerical examples are provided to illustrate the convergence of the proposed method and its effectiveness in improving mesh quality on the approximate evolving surface.},
+      langid = {english},
+      journal = {SIAM J. Numer. Anal.},
+      year = {2024}
+      }
+
